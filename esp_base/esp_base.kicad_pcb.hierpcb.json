@@ -1,0 +1,48 @@
+{
+  "subpcb": {
+    "esp_base.kicad_pcb": {
+      "anchor": "U1"
+    }
+  },
+  "sheet": {
+    "": {
+      "checked": false
+    },
+    "/01f32a3b-3855-4b75-a03c-490b035f36f1": {
+      "checked": false
+    },
+    "/18575c04-1730-46c3-ae87-a1b5af41a75f": {
+      "checked": false
+    },
+    "/2462927e-59f4-4eec-8d96-fcf1833190f0": {
+      "checked": false
+    },
+    "/27795937-c523-476e-a3eb-72f0355cd2da": {
+      "checked": false
+    },
+    "/389f97b2-e30d-4847-bdcb-d0940d09a33f": {
+      "checked": false
+    },
+    "/3d1ee391-c52c-4d0a-9dac-e5b5117b5824": {
+      "checked": false
+    },
+    "/443ad700-5db0-4a57-9967-b9ab88f2acf0": {
+      "checked": false
+    },
+    "/56a5e6ef-5569-4e28-baba-bf73d0a17f07": {
+      "checked": false
+    },
+    "/a7235410-2217-4115-a8f5-356c2a37b83f": {
+      "checked": false
+    },
+    "/aa90cb4d-9d66-4e69-850d-355f51c51508": {
+      "checked": false
+    },
+    "/c6dfab4f-5a96-4386-9fa3-e917acdbb7a6": {
+      "checked": false
+    },
+    "/e7e8cab3-f61b-47c5-8a05-d522324e1d5d": {
+      "checked": false
+    }
+  }
+}

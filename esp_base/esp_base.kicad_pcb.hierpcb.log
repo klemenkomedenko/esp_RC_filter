@@ -1,0 +1,68 @@
+Plugin v0.0.1 running on KiCad 9.0.7 and Python 3.11.5 (main, Nov  6 2025, 07:48:09) [MSC v.1944 64 bit (AMD64)] on win32.
+Imported C:\mystuff\esp_base\esp_base\esp_base.kicad_pcb, with 50 footprints, 2 tracks, and 1 drawings.
+/ (+ PCB C:\mystuff\esp_base\esp_base\esp_base.kicad_pcb)
+├─ /filter/
+├─ /filter5/
+├─ /filter6/
+├─ /filter11/
+├─ /filter9/
+├─ /filter2/
+├─ /filter7/
+├─ /filter4/
+├─ /filter1/
+├─ /filter3/
+├─ /filter8/
+├─ /filter10/
+PCB C:\mystuff\esp_base\esp_base\esp_base.kicad_pcb
+  /2462927e/47a87c08: I7
+  /443ad700/47a87c08: I8
+  /c6dfab4f/47a87c08: I9
+  /389f97b2/47a87c08: I10
+  /e7e8cab3/47a87c08: I11
+  /27795937/47a87c08: I12
+  /18575c04/47a87c08: I6
+  /4a2e6b99: GND
+  /81654b41: U2
+  /cb389fb3: 5V
+  /56a5e6ef/47a87c08: I5
+  /aa90cb4d/47a87c08: I4
+  /3d1ee391/47a87c08: I3
+  /a7235410/47a87c08: I2
+  /01f32a3b/47a87c08: I1
+  /27795937/b72bfa6d: R14
+  /e7e8cab3/b72bfa6d: R13
+  /389f97b2/b72bfa6d: R12
+  /c6dfab4f/b72bfa6d: R11
+  /443ad700/b72bfa6d: R10
+  /2462927e/b72bfa6d: R9
+  /18575c04/b72bfa6d: R8
+  /56a5e6ef/b72bfa6d: R7
+  /aa90cb4d/b72bfa6d: R6
+  /3d1ee391/b72bfa6d: R5
+  /a7235410/b72bfa6d: R4
+  /3bcef5d2: R3
+  /01f32a3b/b72bfa6d: R2
+  /e18453ec: R1
+  /b3bfbfca: J3
+  /22851e0e: J2
+  /6cb934b9: J1
+  /27795937/664222df: C18
+  /e7e8cab3/664222df: C17
+  /389f97b2/664222df: C16
+  /c6dfab4f/664222df: C15
+  /443ad700/664222df: C14
+  /2462927e/664222df: C13
+  /18575c04/664222df: C12
+  /56a5e6ef/664222df: C11
+  /aa90cb4d/664222df: C10
+  /3d1ee391/664222df: C9
+  /a7235410/664222df: C8
+  /fd4c0110: C7
+  /b305eb7c: C5
+  /01f32a3b/664222df: C4
+  /9cc358dc: C3
+  /5c05e8ed: C2
+  /6fed050d: C1
+  /de30029c: U1
+Selected for 0 : C:\mystuff\esp_base\esp_base\esp_base.kicad_pcb
+Anchors  (U1): ['5V', 'C1', 'C10', 'C11', 'C12', 'C13', 'C14', 'C15', 'C16', 'C17', 'C18', 'C2', 'C3', 'C4', 'C5', 'C7', 'C8', 'C9', 'GND', 'I1', 'I10', 'I11', 'I12', 'I2', 'I3', 'I4', 'I5', 'I6', 'I7', 'I8', 'I9', 'J1', 'J2', 'J3', 'R1', 'R10', 'R11', 'R12', 'R13', 'R14', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'U1', 'U2']
