@@ -2313,7 +2313,7 @@
 		(uuid "21552575-bb29-473b-831c-2a14fc2f8fb1")
 	)
 	(label "F1"
-		(at 138.43 76.2 0)
+		(at 138.43 78.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2383,7 +2383,7 @@
 		(uuid "78a50f76-4778-47a4-a5d7-594d1dda8725")
 	)
 	(label "F12"
-		(at 138.43 93.98 0)
+		(at 138.43 68.58 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2393,7 +2393,7 @@
 		(uuid "7d57fc47-a761-4ccc-9185-1e3130128153")
 	)
 	(label "F8"
-		(at 138.43 68.58 0)
+		(at 138.43 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2423,7 +2423,7 @@
 		(uuid "88d7f726-bc72-4d1c-ac5f-9df00dc7c350")
 	)
 	(label "F3"
-		(at 138.43 81.28 0)
+		(at 138.43 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2443,7 +2443,7 @@
 		(uuid "97aff6ad-e451-4171-98aa-cc3d15ae6ac1")
 	)
 	(label "F7"
-		(at 138.43 66.04 0)
+		(at 138.43 91.44 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2463,7 +2463,7 @@
 		(uuid "ab3666d8-9c64-47f7-99dd-595fbffa199a")
 	)
 	(label "F11"
-		(at 138.43 96.52 0)
+		(at 138.43 71.12 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2493,7 +2493,7 @@
 		(uuid "d346afe8-4e0c-427e-9357-088cda1ac141")
 	)
 	(label "F6"
-		(at 138.43 91.44 0)
+		(at 138.43 66.04 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2513,7 +2513,7 @@
 		(uuid "e4b3f23b-865d-418d-a43f-45dc9e541ad2")
 	)
 	(label "F9"
-		(at 138.43 71.12 0)
+		(at 138.43 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2523,7 +2523,7 @@
 		(uuid "f502d77d-143d-4c43-9b78-fd6dd3733724")
 	)
 	(label "F2"
-		(at 138.43 78.74 0)
+		(at 138.43 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
