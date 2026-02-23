@@ -3015,73 +3015,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint_Alt")
-		(at 99.06 121.92 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4a2e6b99-16a8-4fad-beb4-7ad034ca1767")
-		(property "Reference" "GND1"
-			(at 101.6 117.3479 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint_Alt"
-			(at 101.6 119.8879 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
-			(at 104.14 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 104.14 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point (alternative shape)"
-			(at 99.06 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "abef7154-e0b3-43b2-b15d-5a8e0060578d")
-		)
-		(instances
-			(project "esp_base"
-				(path "/b9883b8e-181f-47a1-bc04-7eade380b6a1"
-					(reference "GND1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 129.54 100.33 0)
 		(unit 1)
@@ -3278,6 +3211,74 @@
 			(project ""
 				(path "/b9883b8e-181f-47a1-bc04-7eade380b6a1"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint_Alt")
+		(at 99.06 121.92 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "620c36f1-7d02-4454-98ee-e1f22485a971")
+		(property "Reference" "GND"
+			(at 101.6 118.6179 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint_Alt"
+			(at 101.6 119.8879 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+			(at 104.14 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 104.14 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point (alternative shape)"
+			(at 99.06 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "598a9800-329e-4e88-852b-f92a26389116")
+		)
+		(instances
+			(project "esp_base"
+				(path "/b9883b8e-181f-47a1-bc04-7eade380b6a1"
+					(reference "GND")
 					(unit 1)
 				)
 			)
@@ -4182,9 +4183,9 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "cb389fb3-4c80-495b-b43e-76088b31c53d")
-		(property "Reference" "5V1"
-			(at 43.18 32.2579 0)
+		(uuid "bb131446-9ba5-4d22-a3dc-560d045a906e")
+		(property "Reference" "5V"
+			(at 43.18 33.5279 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4199,9 +4200,10 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
 			(at 45.72 36.83 0)
 			(effects
 				(font
@@ -4229,12 +4231,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "bf86b962-0195-4ac3-917a-e578aeb1bc4a")
+			(uuid "afc0bcb5-8264-4c4d-8cdf-997e90b11a1f")
 		)
 		(instances
 			(project "esp_base"
 				(path "/b9883b8e-181f-47a1-bc04-7eade380b6a1"
-					(reference "5V1")
+					(reference "5V")
 					(unit 1)
 				)
 			)
